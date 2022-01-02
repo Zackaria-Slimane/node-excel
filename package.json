@@ -1,0 +1,18 @@
+{
+	"name": "oservice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"console-progress-bar": "^1.0.5",
+		"express": "^4.17.1",
+		"xlsx": "^0.17.3"
+	}
+}
